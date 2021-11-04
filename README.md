@@ -1,7 +1,5 @@
 ### Hi there 👋, I`m Zhyrgalbek
 
- <br/>
-
 ### I`m a juniour frontEnd Developer
 
  <br/>
@@ -28,7 +26,7 @@
 
 <br>
 
-<img align="left" alt="SublimeText" width="30px" src="./src/img/icons8-sublime-text.svg" />
+<img align="left" alt="SublimeText" width="30px" src="./src/img/sublime-text.svg" />
 <img align="left" alt="SublimeText" width="28px" src="./src/img/visual-studio.svg" />
 <img align="left" alt="SublimeText" width="28px" src="./src/img/figma.svg" />
 <img align="left" alt="SublimeText" width="28px" src="./src/img/html-5.svg" />
