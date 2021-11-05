@@ -22,7 +22,7 @@
 [link]: http://github.com/deploy/sneakers
 [iterms]: https://zhmatisaev.github.io/portfolio-finished/
 [pomodoro]: https://zhmatisaev.github.io/pomodoro-redux/
-[react-store]: zhmatisaev.github.io/React-store/
+[react-store]: https://zhmatisaev.github.io/React-store/
 
 ### Languages and Tools
 
