@@ -13,10 +13,10 @@
 
 ### My Projects:
 
-- [ONLINE SHOP SNEAKERS][react-store]
-- [ LANDING PAGE ITERMS][iterms]
-- [POMODORO][pomodoro]
-- [REDUX TODO LIST][todolist]
+- [ITERMS ( REACT - REDUX sign up & sign in )][iterms]
+- [POMODORO (REACT - REDUX)][pomodoro]
+- [TODO LIST (REDUX)][todolist]
+- [ONLINE SHOP SNEAKERS (REACT)][react-store]
 
 ---
 
