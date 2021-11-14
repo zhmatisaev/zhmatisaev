@@ -1,22 +1,21 @@
 ### Hi there 👋, I`m Zhyrgalbek
 
-### I`m a juniour frontEnd Developer
+### I`m a junior frontEnd Developer
 
  <br/>
 
-- I like to learn new things
-- learn JavaScript,
-- React ,
-- Node.js
+- I am very interested in programming.
+- Learning JAVASCRIPT , REACT , REDUX
+- I plan to learn NODE.JS in the future.
 
 ---
 
 ### My Projects:
 
-- [ITERMS ( REACT - REDUX sign up & sign in )][iterms]
-- [POMODORO (REACT - REDUX)][pomodoro]
-- [TODO LIST (REDUX)][todolist]
-- [ONLINE SHOP SNEAKERS (REACT)][react-store]
+- [ITERMS - ( REACT - REDUX , HOOKS , Sign Up & Sign In )][iterms]
+- [POMODORO - ( REACT - REDUX, HOOKS )][pomodoro]
+- [TODO LIST - ( REDUX )][todolist]
+- [ONLINE SHOP SNEAKERS - ( REACT , HOOKS )][react-store]
 
 ---
 
