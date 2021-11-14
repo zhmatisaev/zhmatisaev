@@ -16,6 +16,10 @@
 - [POMODORO - ( REACT - REDUX, HOOKS )][pomodoro]
 - [TODO LIST - ( REDUX )][todolist]
 - [ONLINE SHOP SNEAKERS - ( REACT , HOOKS )][react-store]
+- [ROUTER LINK COMPONENTS - ( REACT-ROUTER-DOM)][router link components]
+
+- [FILTER BY AGE - ( REACT , HOOKS )][filter by age]
+- [RENDER BLOCKS - ( REACT, HOOK)][render blocks]
 
 ---
 
@@ -23,6 +27,9 @@
 [pomodoro]: https://zhmatisaev.github.io/pomodoro-redux/
 [todolist]: https://zhmatisaev.github.io/Redux__todolist/
 [react-store]: https://zhmatisaev.github.io/React-store/
+[filter by age]: https://zhmatisaev.github.io/filterAge/
+[render blocks]: https://zhmatisaev.github.io/render_blocks/
+[router link components]: https://zhmatisaev.github.io/router-link-components/
 
 ### Languages and Tools
 
