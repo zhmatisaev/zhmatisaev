@@ -16,12 +16,13 @@
 - [ONLINE SHOP SNEAKERS][react-store]
 - [ LANDING PAGE ITERMS][iterms]
 - [POMODORO][pomodoro]
+- [REDUX TODO LIST][todolist]
 
 ---
 
-[link]: http://github.com/deploy/sneakers
 [iterms]: https://zhmatisaev.github.io/portfolio-finished/
 [pomodoro]: https://zhmatisaev.github.io/pomodoro-redux/
+[todolist]: https://zhmatisaev.github.io/Redux__todolist/
 [react-store]: https://zhmatisaev.github.io/React-store/
 
 ### Languages and Tools
